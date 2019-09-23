@@ -110,6 +110,9 @@ p, a {
 #one, #two, #three, #four, #five{
     width:100%;  
 }
+#one{
+    min-height: 225px;
+}
 
 .figure{
     width:100%;
